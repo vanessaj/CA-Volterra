@@ -1,0 +1,3 @@
+MATLAB function to produce a cellular autamoton for a Lotka-Volterra model of predator and prey relationships.
+The autamoton is displayed for each iteration showing the positions of the prey and predators in the habitat.
+After the final iteration a graph is displayed showing the population counts over time.
